@@ -1,0 +1,14 @@
+.links{
+    background-color: rgb(18, 228, 99);
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 20px;
+}
+.links button{
+    width:230%;
+    height: 50px;
+    cursor: pointer;
+}

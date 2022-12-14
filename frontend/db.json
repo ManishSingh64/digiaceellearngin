@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {
+      "id": "e17ceed9-e2de-4a85-a9e1-bb4a0c46432f",
+      "question": "Which is the state of India?",
+      "optionArr": [
+        "Delhi",
+        "India",
+        "Punjab",
+        "Uttrakhand"
+      ],
+      "correctArr": [
+        "Delhi"
+      ]
+    },
+    {
+      "id": "3070e1c4-6718-4074-8d1e-d12b8b08fe32",
+      "question": "sdff",
+      "optionArr": [
+        "sdfsdf"
+      ],
+      "correctArr": [
+        "sdf"
+      ]
+    }
+  ]
+}
