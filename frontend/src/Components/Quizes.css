@@ -1,0 +1,23 @@
+.active{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.inactive{
+    border: 1px solid black;
+    width: 70%;
+    margin: auto;
+    cursor: pointer;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: rgb(159, 243, 215);
+}
+.inactive:hover{
+    background-color: rgb(58, 186, 143);
+    transition-duration: 0.4s;
+}
